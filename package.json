@@ -1,0 +1,14 @@
+{
+  "name": "tute",
+  "version": "1.0.0",
+  "description": "this is my tute ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BIbhas Dhula",
+  "license": "ISC",
+  "dependencies": {
+    "colour": "^0.7.1"
+  }
+}
